@@ -1,0 +1,4 @@
+pygame==2.5.2
+pyinstaller==6.4.0
+pymunk==6.6.0
+screeninfo==0.8.1
